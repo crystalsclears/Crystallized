@@ -21,7 +21,7 @@
       <li>General: Banter, extremely edgy jokes made for the sake of being edgy, terminally online internet discourse </li>
     <li>Severely dislike: People who are dream stans/kpop stans (as in making their whole personality centered around it), proshippers, NFT/Cryptobros, political extremism </li>
     </ul>
-    <h4>~Ａｂｏｕｔ Ｍｙｓｅｌｆ~ </h4>
+    <h4>~About Myself~ </h4>
     <ul>
       <li>Hobbies: Programming, Rubik's Cube and variants/puzzles, Learning new languages/literature, Volleyball, Swimming, Drawing, Robotics </li>
       <li>Why I'm funny: Professional shitposter and certified dumbass 🗿 </li>
